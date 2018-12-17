@@ -1,0 +1,9 @@
+# Binaries
+ac-sqs-lambda
+# ac-sqs-lambda.zip
+
+# Infrastructures
+# for security resons we are omiting our cloudformation templates 
+# and Continuous Integration/Continuous Delivery related stuff
+*.cf-template.json
+.buildkite/
